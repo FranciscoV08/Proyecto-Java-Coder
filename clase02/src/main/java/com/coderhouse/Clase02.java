@@ -1,5 +1,5 @@
 package com.coderhouse;
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class Clase02 {
 
@@ -96,7 +96,7 @@ public class Clase02 {
 		
 		
 		//Cerramos el scanner ya que es necesario 
-		scanner.close();
+		//scanner.close();
 		
 		
 		
